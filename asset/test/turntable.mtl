@@ -1,0 +1,67 @@
+newmtl Metal_Steel_Textured_White_6bcda0c5-a903-4350-8c00-367bf8d113c8
+Kd 0.036 0.010 0.010
+d 1.000
+newmtl Metal_Aluminum_Anodized_4_e627cc8d-61dc-4baa-98e9-e7535aded073
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Metal_Aluminum_Anodized_2_e8109755-f1b8-4c7e-9b49-524ced8e1ab4
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Wood_Cherry_Original_1_0f10100b-dc89-4465-b93a-015070a298d6
+Kd 0.795 0.795 0.795
+d 1.000
+newmtl Color_M09_1ab6675c-fd87-467c-b00e-6e061b883014
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Aluminum_1_dcebfa6c-87e4-45b4-8811-084184f0b872
+Kd 0.851 0.851 0.851
+d 1.000
+newmtl Color_A05_2ce53a70-d5b2-4f73-9acb-a5be047c9d17
+Kd 1.000 0.000 0.000
+d 1.000
+newmtl Metal_Corrugated_Shiny_1_4b15d195-44b3-4ebf-be1f-e91b7b36ab9a
+Kd 0.881 0.881 0.881
+d 1.000
+newmtl Wood_Bamboo_fda701f0-2aee-4bc0-86f6-fa730c139966
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Metal_Corrugated_Shiny_2_2c3dd976-d1e9-45a1-b0cd-f883572d7b15
+Kd 0.881 0.881 0.881
+d 1.000
+newmtl Color_M08_d79535c2-b910-447c-acdc-7c265ce4181b
+Kd 0.378 0.378 0.378
+d 1.000
+newmtl Color_M05_8a9c37e4-a13d-4582-8a39-112dc402177b
+Kd 0.694 0.694 0.694
+d 1.000
+newmtl Black_Lines_5_aa9b648d-293c-4e83-b435-0197b9cf2d29
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Black_Lines_3_5034ee1d-4531-4809-8c4c-efdd384a5890
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Color_M03_a01b0029-fccc-4d78-991d-9d53eef8d127
+Kd 0.832 0.832 0.832
+d 1.000
+newmtl Translucent_Glass_Blue_532e492b-991a-49a3-ba3e-20b1db396cdd
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl material_ae5270ce-ab36-4da8-9863-44e4715511fc
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Color_M00_52b8811d-af5c-49f9-96be-2049b2657a5b
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Metal_Steel_Textured_1_662dd551-02d2-4980-9a27-8dce6a652778
+Kd 0.671 0.682 0.718
+d 1.000
+newmtl Metal_Aluminum_Anodized_3_d22fd593-d18b-4dc0-84d6-9fca62702696
+Kd 0.900 0.914 0.933
+d 1.000
+newmtl Metal_Silver_54ebe82d-a968-45b4-b227-67c97498a14d
+Kd 0.962 0.960 0.969
+d 1.000
+newmtl Aluminum_2_1c7a5d24-10de-46bd-bc90-9732fa3ab5d1
+Kd 0.851 0.851 0.851
+d 1.000
